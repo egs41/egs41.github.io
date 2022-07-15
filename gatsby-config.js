@@ -3,7 +3,7 @@ module.exports = {
     title: `Grapefruit-milk의 개발 블로그`,
     description: `안녕하세요, 많은 관심 부탁드립니다.`,
     author: `egs41`,
-    siteUrl: 'https://my-website-link.com',
+    siteUrl: 'https://egs41.github.io/',
   },
   plugins: [
     {
@@ -26,7 +26,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://my-website.com/',
+        siteUrl: 'https://egs41.github.io/',
         stripQueryString: true,
       },
     },
